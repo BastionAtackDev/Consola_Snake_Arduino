@@ -1,4 +1,4 @@
-# Cum se leaga
+# Cum se conectează 
 
 ## Matricea
 Vcc - 5V
